@@ -20,4 +20,4 @@
 <br>
 Данные за 2016 год могут быть неполными.
 <br><br>
-<a href="https://github.com/Runki84/YP-DS-04-Game-market/blob/main/04-Game-market.ipynb">Проект</a>
+<a href="https://github.com/Runki-DS/YP-DS-04-Game-market/blob/main/04-Game-market.ipynb">Проект</a>
